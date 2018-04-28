@@ -112,3 +112,9 @@ li{
   background: white;
   font-family: 'Nunito', sans-serif;
 }
+
+footer{
+  font-size: 12px;
+  padding: 5px;
+  bottom: 0;
+}

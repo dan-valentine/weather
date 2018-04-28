@@ -92,6 +92,7 @@ class App extends Component {
           <h3>Recent</h3>
           <ul className='App-recent-list'>{recentDisplay}</ul>
         </div>
+        <footer>Powered by www.wunderground.com</footer>
       </div>
     );
   }
